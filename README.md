@@ -9,7 +9,7 @@ permalink: /about/
 
 
 - email: sdw504512@gmail.com
-- github: https://github.com/nampongo
+- github: <a>https://github.com/nampongo </a>
 - Seoul, Korea
 
 <br>
