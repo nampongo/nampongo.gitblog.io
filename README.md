@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## 남유진
+## 남유진 깃블로그
+<br>
+
 > hi there
 
 
 - email: sdw504512@gmail.com
-- github: <a>https://github.com/nampongo </a>
+- github: https://github.com/nampongo
 - Seoul, Korea
 
 <br>
